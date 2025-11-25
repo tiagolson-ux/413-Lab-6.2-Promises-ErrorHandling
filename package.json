@@ -1,0 +1,23 @@
+{
+  "name": "413-lab-6.2-promises-errorhandling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagolson-ux/413-Lab-6.2-Promises-ErrorHandling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagolson-ux/413-Lab-6.2-Promises-ErrorHandling/issues"
+  },
+  "homepage": "https://github.com/tiagolson-ux/413-Lab-6.2-Promises-ErrorHandling#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
